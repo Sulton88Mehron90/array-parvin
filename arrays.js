@@ -8,6 +8,7 @@ parvinsattorovaedwards@Parvins-MacBook-Pro array % node arrays.js
 ```
 // used `pop()` method – Remove an element from the end of the array.
 
+
 var birthDates = ["3", "6", "21", "17", "10"]
 birthDates.push()
 console.log(birthDates)
