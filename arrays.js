@@ -2,13 +2,13 @@ var appleNames = ["Cripps Pink", "Honeycrisp", "Granny Smith", "Gala"]
 appleNames.pop()
 console.log(appleNames);
 
-// used `pop()` method – Remove an element from the end of the array.
+// used pop() method – Remove an element from the end of the array.
 
 var birthDates = [3, 6, 21, 17, 10]
 birthDates.push(21)
 console.log(birthDates)
 
-// used `push()` method - – Insert an element at the end of the array.
+// used push() method - – Insert an element at the end of the array.
 
 var fourBooleans = ["true", "false", "yes", "no"]
 fourBooleans.shift()
